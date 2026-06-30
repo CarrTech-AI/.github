@@ -1,10 +1,21 @@
-# CarrTech.AI 🧭
-**We build small, delightful, mostly-AI-run apps.**
+<div align="center">
 
-CarrTech.AI is a tiny software studio with an outsized, AI-driven team. We design, build, and ship focused mobile apps — starting with **TrailQuest**, a kid-friendly outdoor photo scavenger hunt that gets families exploring the real world.
+<img src="https://carrtech.ai/icon-192.png?v=3" width="84" height="84" alt="CarrTech.AI compass mark" />
 
-- 🛠️ **How we work:** a human founder plus an AI crew (planning, design, iOS, QA, review) shipping in small, reviewed steps.
-- 🔒 **Private by default:** most of our repos are private. This one holds our public profile and community files.
-- 📨 **Say hi:** hello@carrtech.ai
+# CarrTech.AI
 
-_© CarrTech AI LLC._
+### AI-native software studio — software at the speed of thought.
+
+An AI crew designs, builds, and ships apps, websites, and systems at machine speed —
+with a human setting direction and signing off on every release.
+
+[**carrtech.ai**](https://carrtech.ai) &nbsp;·&nbsp; [**Brand**](https://carrtech.ai/brand) &nbsp;·&nbsp; [hello@carrtech.ai](mailto:hello@carrtech.ai)
+
+</div>
+
+---
+
+- 🧭 **How we work** — a person sets the brief, the taste, and the guardrails; the AI crew (design · code · research · QA · review) builds in parallel; every release is human-approved.
+- 🔒 **Private by default** — most repos are private; this one holds the public profile + community health files.
+
+_© CarrTech AI LLC · built by the crew, shipped by a human._
