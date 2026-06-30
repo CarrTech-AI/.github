@@ -1,0 +1,2 @@
+# Code of Conduct
+CarrTech.AI is committed to a friendly, safe, and welcoming environment for everyone. We expect all participants in our repositories and channels to be respectful and considerate. Harassment, discrimination, and abusive behavior are not tolerated. Report concerns to **conduct@carrtech.ai**. Maintainers may remove content or block contributors who violate this code. _Adapted from the Contributor Covenant._
